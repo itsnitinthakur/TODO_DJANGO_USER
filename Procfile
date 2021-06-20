@@ -1,0 +1,1 @@
+web: gunicorn todoofbookmark.wsgi
